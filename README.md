@@ -6,7 +6,17 @@
         CLAITECH
     </title>
    <style>
-
+      .class{
+        background-color;#fff;
+        font-size;30px;
+        text-decoration;none;
+        border;#88a8cc;
+        padding;6%;
+        displayflex
+      }
+      .h1{
+        font-weight;bold
+      }
    </style>
  </head>
        <body>
